@@ -1,4 +1,4 @@
-Inleiding
+
 Je hebt inmiddels geleerd hoe je relaties, overerving en abstracte klassen moet toepassen. In het backend landschap worden deze concepten vaak uitgelegd aan de hand van dieren of andere levende wezens. Dus in plaats van de standaard hond of kat te kiezen, passen wij deze concepten toe op het onderwerp Pokèmon!
 
 Wat is een pokemon?
